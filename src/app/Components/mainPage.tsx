@@ -269,8 +269,8 @@ const MainPage = () => {
           </div>
         </div>
 
-        <div className="xl:w-[30%] w-full flex flex-col h-screen ">
-          <div className="w-full p-4 xl:p-10 border-l  border-l-gray-200 border-b-gray-200">
+        <div className="xl:w-[30%] w-full flex flex-col h-[1800px] border-l-gray-200">
+          <div className="w-full p-4 xl:p-10 border-l h-full  border-l-gray-200 border-b-gray-200">
             <div className="flex justify-center gap-4 items-center">
               <div className="bg-[#FEF4F2] flex justify-center  gap-3 items-center text-[#DC4A2D] rounded-[8px] xl:h-[46px] xl:w-[172px] w-[100px] h-[30px]  border-[0.8px] border-[#DC4A2D]">
                 <div>
